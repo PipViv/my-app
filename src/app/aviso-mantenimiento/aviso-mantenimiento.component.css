@@ -1,0 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.btn-open-modal {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  /* Estilo para el modal */
+  .modal-title {
+    font-size: 1.25rem;
+  }
